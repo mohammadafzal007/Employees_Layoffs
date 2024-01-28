@@ -1,5 +1,18 @@
 # Employees Layoffs
 [Click to see the notebook](https://nbviewer.org/github/mohammadafzal007/Employees_Layoffs/blob/main/Employees_Layoffs.ipynb)
+## Outline of Approach
+1. Data loading
+2. Data Cleaning
+3. Data Transformation 
+4. Data Visualization
+5. Insights
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ![output_22_0](https://github.com/mohammadafzal007/Employees_Layoffs/assets/83740723/697a1c0e-b3c6-43c2-9633-afd9520c80da)
 ![output_27_1](https://github.com/mohammadafzal007/Employees_Layoffs/assets/83740723/8affe56a-efae-4f1b-b983-6d5da62a3071)

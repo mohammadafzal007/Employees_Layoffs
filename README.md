@@ -1,5 +1,5 @@
 # Employees Layoffs
-[Click to see the notebook](https://nbviewer.org/github/mohammadafzal007/Employees_Layoffs/blob/main/Employees_Layoffs.ipynb)
+[Click to see the notebook](https://nbviewer.org/github/mohammadafzal007/Employees_Layoffs/blob/main/Employees_Layoffs%20%281%29.ipynb)
 ## Outline of Approach
 1. Data loading
 2. Data Cleaning

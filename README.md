@@ -1,4 +1,6 @@
 # Employees Layoffs
+[Click to see the notebook](https://nbviewer.org/github/mohammadafzal007/Employees_Layoffs/blob/main/Employees_Layoffs.ipynb)
+
 ![output_22_0](https://github.com/mohammadafzal007/Employees_Layoffs/assets/83740723/697a1c0e-b3c6-43c2-9633-afd9520c80da)
 ![output_27_1](https://github.com/mohammadafzal007/Employees_Layoffs/assets/83740723/8affe56a-efae-4f1b-b983-6d5da62a3071)
 ![output_29_1](https://github.com/mohammadafzal007/Employees_Layoffs/assets/83740723/608969a6-0f96-4762-b52d-1a040d8695e5)
